@@ -9,9 +9,7 @@ cli:
 merge:
   required_statuses:
     - build
-
-api:
-  address: api.trunk-staging.io:8443
+    - trunk-check-
 
 lint:
   enabled:
