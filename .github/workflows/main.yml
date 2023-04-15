@@ -45,4 +45,3 @@ jobs:
         run: echo "test=hello" >> "$GITHUB_OUTPUT"
       - id: step2
         run: echo "test=world" >> "$GITHUB_OUTPUT"
-
