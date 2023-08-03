@@ -1,4 +1,4 @@
-name: CI
+name: Check
 
 # Controls when the workflow will run test
 on:
